@@ -1,0 +1,11 @@
+{
+  "name": "authbot",
+  "version": "0.0.1",
+  "description": "The Mafia Reborn's Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "P4RATR00PER",
+  "license": "MIT"
+}
